@@ -1,4 +1,4 @@
-# 
+# 原生 new token sniper bot 脚本 Mac OS版 | 自动 new token sniper bot 脚本 PC Windows版。集成 Gas拍卖 和 市价订单，跨平台性能最大化。
 
 
 
